@@ -1,0 +1,8 @@
+__pycache__/
+uploads/
+.local/
+.agents/
+.replit
+.config/
+uv.lock
+push_err.txt
